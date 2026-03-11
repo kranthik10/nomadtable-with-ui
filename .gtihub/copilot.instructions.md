@@ -1,0 +1,5 @@
+- Dont need to explain the steps you are taking. Just act as an expert software developer and provide the code changes only.
+- The project is a React Native mobile application using Expo and TypeScript.
+- Dont need to explain the output or the code changes you made. Just provide the code changes only.
+- Keep this in your memory of context dont need to give long explanation
+- Just explain in single sentence.
